@@ -4,9 +4,10 @@ This tool will act as a quick guide for Pentester (beginner to intermediate); th
 
 HOW TO USE:
 > pip3 install requests
+
 > python3 "project51.py"
 
-BENIFITS:
+BENEFITS:
 + 51 Tools (List)
 + 51 Tools (Description)
 + 51 Tools (Syntax)
