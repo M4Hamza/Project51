@@ -116,6 +116,9 @@ DETAIL: This tool eliminates the tester’s need to search online for tools, fig
 CONCLUSION: Project51 is your go-to resource for effective penetration testing, whether you’re a beginner or have some experience. With 51 detailed guides covering the top domains in ethical hacking, including the OWASP Top 10, this tool simplifies finding and using the right tools for the job. By consolidating everything in one place, Project51 saves you time and boosts your efficiency, letting you focus on what matters — executing precise, impactful tests. To use, clone the repository and get started with Python 3 to unlock the full potential of your testing toolkit.
 
 AUTHOR: Muhammad Amir Hamza (0xH4M2A)
+
 TITLE: Cybersecurity Engineer
+
 LINKEDIN: https://linkedin.com/in/mamirhamza
+
 COMPANY: https://linkedin.com/company/black-innovations
