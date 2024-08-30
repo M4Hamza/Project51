@@ -1,4 +1,4 @@
-Project51 (Pentester Quick Tools Guide)
+# Project51 (Pentester Quick Tools Guide)
 
 ![image](https://github.com/user-attachments/assets/7897dc8f-0861-47f9-98f5-8c3142a21e90)
 
@@ -95,9 +95,9 @@ PROJECT51: This tool serves as a comprehensive and streamlined resource for pene
 [4] OWASP TOP 10 CHECKLIST: Offering a comprehensive OWASP checklist to conduct security tests across all domains, including host, API, mobile, and web applications.
 
 HOW TO USE: The project is straightforward to use. Clone the repository and execute it using Python 3 or later.
-# git clone https://github.com/M4Hamza/Project51.git
+> git clone https://github.com/M4Hamza/Project51.git
 
-# python3 project51.py
+> python3 project51.py
 
 HOW TO USE (EXAMPLE): Assume you’re an Ethical Hacker and want to get a list of available standard tools for “Steganography”
 
