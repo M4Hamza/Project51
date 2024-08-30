@@ -4,9 +4,7 @@ Project51 (Pentester Quick Tools Guide)
 
 BACKGROUND: This project, developed by Muhammad Amir Hamza, a Cyber Security Analyst, on behalf of Black Innovations EST in Dubai, United Arab Emirates, was created with the vision of revolutionizing the field of cybersecurity. The aim is to provide a comprehensive, single-stop resource for security testing and hacking tools, making the process more accessible and efficient for professionals in the industry.
 
-PROJECT51: This tool serves as a quick reference guide for pentesters, ranging from beginner to intermediate levels. The project includes 51 detailed tool guides, each featuring comprehensive descriptions, usage instructions, and syntax examples. Some guides also offer walkthroughs to further assist in mastering the tools.
-
-This project serves as a comprehensive and streamlined resource for penetration testers, offering targeted guidance across various hacking domains. For example, if you’re working on Android testing, the Mobile Hacking guide within Project51 provides a curated list of tools with straightforward instructions for use. By bringing together key tools and resources in one convenient place, Project51 reduces the time spent searching for the right tools, allowing you to focus more on the task at hand.
+PROJECT51: This tool serves as a comprehensive and streamlined resource for penetration testers, offering targeted guidance across various hacking domains. For example, if you’re working on Android testing, the Mobile Hacking guide within Project51 provides a curated list of tools with straightforward instructions for use. By bringing together key tools and resources in one convenient place, Project51 reduces the time spent searching for the right tools, allowing you to focus more on the task at hand.
 
 [1] TOP 10 ETHICAL HACKING DOMAINS: Covering all key domains of Ethical Hacking necessary for security testing.
 - Scanning and Enumeration
@@ -97,9 +95,9 @@ This project serves as a comprehensive and streamlined resource for penetration 
 [4] OWASP TOP 10 CHECKLIST: Offering a comprehensive OWASP checklist to conduct security tests across all domains, including host, API, mobile, and web applications.
 
 HOW TO USE: The project is straightforward to use. Clone the repository and execute it using Python 3 or later.
-> pip3 install requests
+# git clone https://github.com/M4Hamza/Project51.git
 
-> python3 "project51.py"
+# python3 project51.py
 
 HOW TO USE (EXAMPLE): Assume you’re an Ethical Hacker and want to get a list of available standard tools for “Steganography”
 
