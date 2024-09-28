@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/7897dc8f-0861-47f9-98f5-8c3142a21e90)
 
-BACKGROUND: This project, developed by Muhammad Amir Hamza, a Cyber Security Analyst, on behalf of Black Innovations EST in Dubai, United Arab Emirates, was created with the vision of revolutionizing the field of cybersecurity. The aim is to provide a comprehensive, single-stop resource for security testing and hacking tools, making the process more accessible and efficient for professionals in the industry.
+BACKGROUND: This project, developed by Muhammad Amir Hamza, a Cyber Security Analyst, was created with the vision of revolutionizing the field of cybersecurity. The aim is to provide a comprehensive, single-stop resource for security testing and hacking tools, making the process more accessible and efficient for professionals in the industry.
 
 PROJECT51: This tool serves as a comprehensive and streamlined resource for penetration testers, offering targeted guidance across various hacking domains. For example, if you’re working on Android testing, the Mobile Hacking guide within Project51 provides a curated list of tools with straightforward instructions for use. By bringing together key tools and resources in one convenient place, Project51 reduces the time spent searching for the right tools, allowing you to focus more on the task at hand.
 
